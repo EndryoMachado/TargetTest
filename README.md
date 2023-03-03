@@ -1,2 +1,2 @@
 # TargetTest
-Repositório com a resolução do teste. Basta abrir o arquivo index.html no navegador e ver tudo funcionando.
+Repositório com a resolução do teste. Cada questão foi desenvolvida em um arquivo individual.
